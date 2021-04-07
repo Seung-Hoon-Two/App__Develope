@@ -1,6 +1,5 @@
 # soul_matt
-
-A new Flutter project.
+스마트 매트 동작을 위한 어플 
 
 ## Getting Started
 
