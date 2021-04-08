@@ -27,6 +27,11 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   intl: ^0.17.0
+
+
+  flutter_ble_lib: ^2.3.2
+  #Android 권한 요청을 위한 라이브러리
+  permission_handler: ^6.1.1
  
 
 
