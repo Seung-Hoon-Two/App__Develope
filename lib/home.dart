@@ -26,6 +26,7 @@ class _home extends State<home> {
         selectedFontSize: 14,
         unselectedFontSize: 14,
         currentIndex: _selectedIndex,
+        
         //현재 선택된 Index
         onTap: (int index) {
           setState(() {
