@@ -1,4 +1,4 @@
-package com.example.soul_matt
+package com.hihoon.soul_matt
 
 import io.flutter.embedding.android.FlutterActivity
 
